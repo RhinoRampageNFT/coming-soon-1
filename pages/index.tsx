@@ -7,8 +7,7 @@ export default function Home() {
     <>
       <Head>
       
-        <title>Rogue Pandas</ title>
-        
+        <title>No title</ title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -16,6 +15,7 @@ export default function Home() {
       
         <img className={classes.imagegif} src="/images/coming-soon.jpg"></img>
         
+        <img className={classes.imagegif} src="/images/LOGO.gif"></img> 
         
           
         
