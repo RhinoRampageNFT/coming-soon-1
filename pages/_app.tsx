@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div className="flex flex-col items-center min-h-screen mx-6">
 
-    <img className={classes.imagegif} src="/images/coming-soon.jpg"></img>
+    <img className={classes.imagegif} src="/images/coming.jpg"></img>
     </div>
 
   );
